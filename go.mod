@@ -14,7 +14,7 @@ require (
 	github.com/karlseguin/ccache/v2 v2.0.8
 	github.com/pkg/errors v0.9.1
 	github.com/savsgio/gotils v0.0.0-20211223103454-d0aaa54c5899
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/stretchr/testify v1.7.0
 	github.com/valyala/fasthttp v1.32.0
 	github.com/valyala/fastjson v1.6.3
@@ -32,7 +32,7 @@ require (
 	github.com/mailru/easyjson v0.0.0-20190626092158-b2ccc519800e // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	golang.org/x/sys v0.0.0-20210514084401-e8d321eab015 // indirect
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
 )
